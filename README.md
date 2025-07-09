@@ -1,4 +1,4 @@
-🍕 Pizza Palace Sales Dashboard
+# 🍕 Pizza Palace Sales Dashboard
 A data visualization project that explores and analyzes sales performance data for Pizza Palace. Built using Microsoft Power BI, this interactive dashboard offers key business insights to help optimize sales, understand customer preferences, and drive decision-making.
 
 📊 Project Overview
