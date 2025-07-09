@@ -1,96 +1,78 @@
-# 🍕 Pizza Palace Sales Dashboard
-A data visualization project that explores and analyzes sales performance data for Pizza Palace. Built using Microsoft Power BI, this interactive dashboard offers key business insights to help optimize sales, understand customer preferences, and drive decision-making.
+# 🍕 Pizza Palace Sales Dashboard - Power BI Project
 
-📊 Project Overview
-This project utilizes transactional sales data from Pizza Palace to:
+This repository contains a fully interactive Power BI dashboard designed to analyze sales data for **Pizza Palace**. The dashboard provides meaningful insights into overall sales performance, order patterns, customer preferences, and revenue trends. It is designed to help management understand key metrics, optimize strategies, and make data-driven decisions to improve profitability and customer satisfaction.
 
-Track overall sales performance
+---
 
-Identify top-selling pizza categories and individual products
+## 🧾 Dataset Overview
 
-Analyze sales trends across different time periods
+The dataset includes detailed sales transaction records from Pizza Palace, including:
 
-Understand customer purchasing behavior
+- **Order ID, Date & Time of Purchase**
+- **Customer & Order Type Details**
+- **Pizza Category and Name**
+- **Order Quantity & Unit Price**
+- **Total Price for Each Order**
 
-Monitor performance by location, delivery type, and order method
+---
 
-The final output is an intuitive and dynamic Power BI dashboard designed for stakeholders, business analysts, and sales teams.
+## 📊 Dashboard Highlights
 
-🧾 Dataset
-File: Pizza Palace Sales data set.xlsx
+### 🔹 Key Metrics
+- **Total Sales**
+- **Total Orders**
+- **Total Pizzas Sold**
+- **Average Order Value**
 
-The dataset contains multiple sheets with information such as:
+### 🔹 Visual Insights
+- **Sales Trend Over Time**: Identify peak sales days/months
+- **Top-Selling Pizzas**: Category and product-wise performance
+- **Sales by Category**: Visual breakdown of pizza types
+- **Hourly Sales Analysis**: Understand customer buying behavior by time
+- **Day-wise Orders**: Track weekday vs weekend performance
+- **Sales Distribution by Order Type**: In-store, online, takeout, etc.
 
-Orders: Order IDs, Date, Time, Order Method, and Location
+---
 
-Order Details: Pizza Name, Category, Quantity, Unit Price
+## 🧠 Business Insights
 
-Customers: Customer IDs and details (if available)
+- Recognize high-performing pizza categories and products
+- Identify peak hours and days for sales
+- Analyze customer order preferences to tailor promotions
+- Assess performance of different order channels
 
-📈 Dashboard Features
-Key visuals and KPIs included:
+---
 
-Total Revenue, Orders, and Quantity Sold
+## 🛠️ Tools Used
 
-Top 5 Best-Selling Pizzas
+- **Power BI Desktop**
+- **Excel**
+- **DAX (Data Analysis Expressions)**
 
-Category-wise Sales Breakdown
+---
 
-Monthly and Weekly Sales Trends
+## 📁 Files Included
 
-Sales by Order Method (Dine-in, Delivery, Takeaway)
+- `Pizza Palace Sales Dashboard.pbit` – Power BI dashboard template file
+- `Pizza Palace Sales Dataset.xlsx` – Raw dataset used for analysis
+- `README.md` – Project documentation
 
-Location-wise Revenue Comparison
+---
 
-The dashboard includes slicers and filters for interactive exploration.
+## 🚀 Getting Started
 
-📂 Files Included
-File	Description
-Pizza Palace Sales data set.xlsx	Raw sales data used for the dashboard
-Pizza palace sales dashboard.pbit	Power BI template file with pre-built visualizations
+1. Clone this repository or download the files.
+2. Open the `.pbit` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. When prompted, load the dataset or connect the Excel file.
+4. Explore the dashboard to gain insights or customize it to your needs.
 
-⚙️ Tools & Technologies
-Microsoft Power BI
+---
 
-Excel
+## 📩 Contact
 
-DAX (Data Analysis Expressions)
+**Author:** Nikhil S  
+**Email:** _[nikhilsunkari28@gmail.com]_  
+**LinkedIn:** _[Your LinkedIn Profile]_  
 
-📌 How to Use
-Download the .pbit file
+---
 
-Open it in Microsoft Power BI Desktop
-
-When prompted, connect it to the Pizza Palace Sales data set.xlsx
-
-Explore and customize the dashboard as needed
-
-📢 Insights Gained
-Peak sales occur during weekends and dinner hours
-
-Veggie and Pepperoni pizzas dominate the top 5 list
-
-Takeaway is the most preferred order method
-
-Certain locations contribute significantly higher revenue
-
-🧠 Future Improvements
-Integrate customer feedback or ratings
-
-Add time-based forecasting
-
-Enhance delivery time analysis
-
-🙌 Acknowledgments
-Thanks to the Pizza Palace team for providing access to anonymized sales data. This project is created for educational and business analysis practice purposes.
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
