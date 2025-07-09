@@ -72,7 +72,7 @@ The dataset includes detailed sales transaction records from Pizza Palace, inclu
 
 **Author:** Nikhil S  
 **Email:** _[nikhilsunkari28@gmail.com]_  
-**LinkedIn:** _[Your LinkedIn Profile]_  
+**LinkedIn:** _[www.linkedin.com/in/nikhilsunkari1125]_  
 
 ---
 
